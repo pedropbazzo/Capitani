@@ -1,3 +1,5 @@
+## Link do deploy: https://capitani.vercel.app/
+
 ## Instalar o aplicativo.
 
   - A verificação da instalação do nodeJS é o node -v.
