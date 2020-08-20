@@ -44,7 +44,4 @@ Antes de executar os testes, certifique-se de servir o aplicativo via `ng serve`
 
 Execute `ng github-pages: deploy` para implantar no Github Pages.
 
-## Ajuda adicional
-
-Para obter mais ajuda sobre o `angular-cli`, use` ng --help` ou verifique o [LEIA-ME do Angular-CLI] (https://github.com/angular/angular-cli/blob/master/README. md).
 
