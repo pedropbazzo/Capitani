@@ -1,4 +1,4 @@
-## Instalar o aplicativo é.
+## Instalar o aplicativo.
 
   - A verificação da instalação do nodeJS é o node -v.
   - npm install
