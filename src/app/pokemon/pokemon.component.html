@@ -1,7 +1,7 @@
 <div class="pokemon-view">
   <img src="../../assets/logo.png" alt="" width=150 height=40>
   <div class="container-input">
-    <input type="text" placeholder="buscar pokemon" [(ngModel)]="query">
+    <input type="text" placeholder="Buscar pokemon" [(ngModel)]="query">
   </div>
   <div class="grid" *ngIf="pokemon">
     <div class="column" *ngFor="let item of pokemon | search: query" [routerLink]="['/detail', item?.name]">
