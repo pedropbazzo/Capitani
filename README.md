@@ -1,12 +1,16 @@
 ## Link do deploy: https://capitani.vercel.app/
 
-## HD 
+## Web
 
-![](https://github.com/pedropbazzo/Capitani/blob/master/src/assets/tela-hd.PNG)
+![](https://github.com/pedropbazzo/Capitani/blob/master/src/assets/web.PNG)
 
-## Responsivo
+## Responsivo - Iphone
 
-![](https://github.com/pedropbazzo/Capitani/blob/master/src/assets/mobile-iphone.PNG)
+![](https://github.com/pedropbazzo/Capitani/blob/master/src/assets/iphone.PNG)
+
+## Responsivo - Ipad
+
+![](https://github.com/pedropbazzo/Capitani/blob/master/src/assets/ipad.PNG)
 
 ## Instalar o aplicativo.
 
