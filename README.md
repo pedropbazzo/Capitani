@@ -1,5 +1,13 @@
 ## Link do deploy: https://capitani.vercel.app/
 
+## HD 
+
+![](https://github.com/pedropbazzo/Capitani/blob/master/src/assets/tela-hd.PNG)
+
+## Responsivo
+
+![](https://github.com/pedropbazzo/Capitani/blob/master/src/assets/mobile-iphone.PNG)
+
 ## Instalar o aplicativo.
 
   - A verificação da instalação do nodeJS é o node -v.
