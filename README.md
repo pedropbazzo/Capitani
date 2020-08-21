@@ -1,5 +1,7 @@
 ## Link do deploy: https://capitani.vercel.app/
 
+![Alt Text](https://github.com/pedropbazzo/Capitani/blob/master/src/assets/giphy-backdrop.mp4)
+
 ## Instalar o aplicativo.
 
   - A verificação da instalação do nodeJS é o node -v.
