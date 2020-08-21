@@ -23,7 +23,7 @@
   - construção de imagem docker -t capitani.
   - docker run -p 3000: 80 --rm capitani
  
-esta etapa dois é a criação de referência e a geração do nome do contêiner pokemon. A terceira etapa é executar a máquina localhost é a porta 3000 exemplo localhost: 3000
+esta etapa dois é a criação de referência e a geração do nome do contêiner capitani. A terceira etapa é executar a máquina localhost é a porta 3000 exemplo localhost: 3000
 
 
 
